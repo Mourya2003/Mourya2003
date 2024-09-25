@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm MOURYA<br>A hardworking programmer from India<br>💬 Ask me about DSA,competative programming<br>🚀Currently working on web dev,dbms(mysql,sql)
+Hi 👋, I'm astra<br>💬 Ask me about DSA,competative programming<br>🚀Currently working on web dev,dbms(mysql,sql)
 
 
 ## 🌐 Socials:
