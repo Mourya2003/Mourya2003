@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm astra<br>💬 Ask me about DSA,competative programming<br>🚀Currently working on web dev,dbms(mysql,sql)
+Hi 👋, I'm Mourya<br>💬 Ask me about Computer science,DSA,competative programming<br>🚀Currently working on web dev,dbms(mysql,sql)
 
 
 ## 🌐 Socials:
