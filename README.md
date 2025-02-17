@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Mourya.  
 
 🚀 **Computer Science Student @ NIT Rourkela**  
 🎯 Passionate about **Competitive Programming, DSA, and System Design**  
